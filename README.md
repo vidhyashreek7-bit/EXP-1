@@ -46,7 +46,7 @@ CIRCUIT DIAGRAM:
 a.   KVL:
  
  
-[beee1.pdf](https://github.com/user-attachments/files/25550801/beee1.pdf)
+
 
 
 b.  KCL:
@@ -55,8 +55,10 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+
  
 
+[beee1.pdf](https://github.com/user-attachments/files/25891189/beee1.pdf)
 
 b.  KCL:
 
